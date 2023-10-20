@@ -7,11 +7,18 @@ form {
 }
 
 #nombre {
-  font-family: "PT Sans Narrow", sans-serif;
-}
+  font-family: "Lobster", sans-serif;
 
-.about {
-  padding: 10rem;
-  margin: 30rem;
-  background-color: blueviolet;
+  color: rgb(rgb(135, 49, 49), rgb(60, 137, 60), rgb(55, 55, 127));
+}
+#experiencia {
+  font-family: "Lobster", sans-serif;
+
+  color: rgb(rgb(135, 49, 49), rgb(60, 137, 60), rgb(55, 55, 127));
+}
+.titulos {
+  font-family: "Lobster", sans-serif;
+}
+.portafolio img {
+  width: 25%;
 }
