@@ -1,0 +1,28 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+form {
+  width: 70%;
+  margin-top: 10rem;
+}
+
+#nombre {
+  font-family: "Lobster", sans-serif;
+
+  color: rgb(rgb(135, 49, 49), rgb(60, 137, 60), rgb(55, 55, 127));
+}
+#experiencia {
+  font-family: "Lobster", sans-serif;
+
+  color: rgb(rgb(135, 49, 49), rgb(60, 137, 60), rgb(55, 55, 127));
+}
+.titulos {
+  font-family: "Lobster", sans-serif;
+}
+.portafolio img {
+  width: 65%;
+}
+
+#educacion .row {
+  max-width: 95%;
+}
